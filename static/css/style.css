@@ -1,0 +1,149 @@
+.ye{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 23px;
+    font-size:xx-large;
+    font-weight: 700;
+    word-spacing: 4px;
+    color: rgba(34, 222, 247, 0.568);
+}
+body{
+    background-color: whitesmoke;
+}
+#fe{
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 33px;
+    top:250px;
+}
+em{
+    font-size:xx-large ;
+    font-style: normal;
+}
+#iv{
+    border-radius: 50%;
+    /* box-sizing: content-box: 4%; */
+    position: absolute;
+    top: 100px;
+}
+.re{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    line-height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    font-weight: bolder;
+    background-color: rgba(34, 222, 247, 0.568);
+    text-align: center;
+    text-decoration-color: black;
+    text-emphasis-color: black;
+    font-size: larger;
+    border-color: black;
+    
+}
+#fr{
+    color: black;
+    font-size: larger;
+    position: absolute;
+    top: 30px;
+    left: 58px; 
+}
+.pie{
+    border-color: black;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    line-height: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: 450px;
+    left: 500px;
+    background-color: red;
+    text-align: center;
+    text-decoration-color: black;
+    text-emphasis-color: black;
+    font-size: larger;
+}
+#u{
+    color: black;
+    font-size: larger;
+    position: absolute;
+    top: 30px;
+    left: 58px;  
+}
+#iu{
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cu{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.op{
+    border-radius: 2%;
+    color:white;
+    background-color: black;
+    height: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    position: absolute;
+    top: 30px;
+
+}
+#er{
+       position: absolute;
+        top: 1px;
+        left: 30px;
+        font-size: x-large;
+        color: rgb(255, 14, 14);
+}
+#be{
+    position: absolute;
+    top: 80px;
+    left:50px ;
+}
+#te{
+    position: absolute;
+    top: 160px;
+    left: 30px;
+}
+#mj{
+    position: absolute;
+    top: 240px;
+    left: 30px;
+}
+.class{
+    position: absolute;
+    top: 400px;
+    border-radius: 3%;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 700px;
+    background-color: wheat;
+    height: 300px;
+}
+body{
+    background-color: whitesmoke;
+}
+#br{
+    position: absolute;
+    top: 1px;
+    left: 30px;
+    font-size: x-large;
+}
+#bb{
+    position: absolute;
+    top: 80px;
+    left:50px ;
+}
+#tb{
+    position: absolute;
+    top: 130px;
+    left:30px ;
+}
+#mc{
+    position: absolute;
+    top: 240px;
+    left:30px ;
+}
